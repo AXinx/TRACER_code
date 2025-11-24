@@ -1,0 +1,144 @@
+====================
+Data keys: ['adservice_container-cpu-system-seconds-total', 'cartservice_container-cpu-system-seconds-total', 'checkoutservice_container-cpu-system-seconds-total', 'currencyservice_container-cpu-system-seconds-total', 'emailservice_container-cpu-system-seconds-total', 'frontend_container-cpu-system-seconds-total', 'main_container-cpu-system-seconds-total', 'paymentservice_container-cpu-system-seconds-total', 'productcatalogservice_container-cpu-system-seconds-total', 'recommendationservice_container-cpu-system-seconds-total', 'redis_container-cpu-system-seconds-total', 'shippingservice_container-cpu-system-seconds-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-cpu-usage-seconds-total', 'cartservice_container-cpu-usage-seconds-total', 'checkoutservice_container-cpu-usage-seconds-total', 'currencyservice_container-cpu-usage-seconds-total', 'emailservice_container-cpu-usage-seconds-total', 'frontend_container-cpu-usage-seconds-total', 'main_container-cpu-usage-seconds-total', 'paymentservice_container-cpu-usage-seconds-total', 'productcatalogservice_container-cpu-usage-seconds-total', 'recommendationservice_container-cpu-usage-seconds-total', 'redis_container-cpu-usage-seconds-total', 'shippingservice_container-cpu-usage-seconds-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-cpu-user-seconds-total', 'cartservice_container-cpu-user-seconds-total', 'checkoutservice_container-cpu-user-seconds-total', 'currencyservice_container-cpu-user-seconds-total', 'emailservice_container-cpu-user-seconds-total', 'frontend_container-cpu-user-seconds-total', 'main_container-cpu-user-seconds-total', 'paymentservice_container-cpu-user-seconds-total', 'productcatalogservice_container-cpu-user-seconds-total', 'recommendationservice_container-cpu-user-seconds-total', 'redis_container-cpu-user-seconds-total', 'shippingservice_container-cpu-user-seconds-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-spec-cpu-quota', 'cartservice_container-spec-cpu-quota', 'checkoutservice_container-spec-cpu-quota', 'currencyservice_container-spec-cpu-quota', 'emailservice_container-spec-cpu-quota', 'frontend_container-spec-cpu-quota', 'main_container-spec-cpu-quota', 'paymentservice_container-spec-cpu-quota', 'productcatalogservice_container-spec-cpu-quota', 'recommendationservice_container-spec-cpu-quota', 'redis_container-spec-cpu-quota', 'shippingservice_container-spec-cpu-quota']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-memory-cache', 'cartservice_container-memory-cache', 'checkoutservice_container-memory-cache', 'currencyservice_container-memory-cache', 'emailservice_container-memory-cache', 'frontend_container-memory-cache', 'main_container-memory-cache', 'paymentservice_container-memory-cache', 'productcatalogservice_container-memory-cache', 'recommendationservice_container-memory-cache', 'redis_container-memory-cache', 'shippingservice_container-memory-cache']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-memory-failures-total', 'cartservice_container-memory-failures-total', 'checkoutservice_container-memory-failures-total', 'currencyservice_container-memory-failures-total', 'emailservice_container-memory-failures-total', 'frontend_container-memory-failures-total', 'main_container-memory-failures-total', 'paymentservice_container-memory-failures-total', 'productcatalogservice_container-memory-failures-total', 'recommendationservice_container-memory-failures-total', 'redis_container-memory-failures-total', 'shippingservice_container-memory-failures-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-memory-mapped-file', 'cartservice_container-memory-mapped-file', 'checkoutservice_container-memory-mapped-file', 'currencyservice_container-memory-mapped-file', 'emailservice_container-memory-mapped-file', 'frontend_container-memory-mapped-file', 'main_container-memory-mapped-file', 'paymentservice_container-memory-mapped-file', 'productcatalogservice_container-memory-mapped-file', 'recommendationservice_container-memory-mapped-file', 'redis_container-memory-mapped-file', 'shippingservice_container-memory-mapped-file']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-memory-max-usage-bytes', 'cartservice_container-memory-max-usage-bytes', 'checkoutservice_container-memory-max-usage-bytes', 'currencyservice_container-memory-max-usage-bytes', 'emailservice_container-memory-max-usage-bytes', 'frontend_container-memory-max-usage-bytes', 'main_container-memory-max-usage-bytes', 'paymentservice_container-memory-max-usage-bytes', 'productcatalogservice_container-memory-max-usage-bytes', 'recommendationservice_container-memory-max-usage-bytes', 'redis_container-memory-max-usage-bytes', 'shippingservice_container-memory-max-usage-bytes']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-memory-rss', 'cartservice_container-memory-rss', 'checkoutservice_container-memory-rss', 'currencyservice_container-memory-rss', 'emailservice_container-memory-rss', 'frontend_container-memory-rss', 'main_container-memory-rss', 'paymentservice_container-memory-rss', 'productcatalogservice_container-memory-rss', 'recommendationservice_container-memory-rss', 'redis_container-memory-rss', 'shippingservice_container-memory-rss']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-memory-swap', 'cartservice_container-memory-swap', 'checkoutservice_container-memory-swap', 'currencyservice_container-memory-swap', 'emailservice_container-memory-swap', 'frontend_container-memory-swap', 'main_container-memory-swap', 'paymentservice_container-memory-swap', 'productcatalogservice_container-memory-swap', 'recommendationservice_container-memory-swap', 'redis_container-memory-swap', 'shippingservice_container-memory-swap']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-memory-usage-bytes', 'cartservice_container-memory-usage-bytes', 'checkoutservice_container-memory-usage-bytes', 'currencyservice_container-memory-usage-bytes', 'emailservice_container-memory-usage-bytes', 'frontend_container-memory-usage-bytes', 'main_container-memory-usage-bytes', 'paymentservice_container-memory-usage-bytes', 'productcatalogservice_container-memory-usage-bytes', 'recommendationservice_container-memory-usage-bytes', 'redis_container-memory-usage-bytes', 'shippingservice_container-memory-usage-bytes']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-memory-working-set-bytes', 'cartservice_container-memory-working-set-bytes', 'checkoutservice_container-memory-working-set-bytes', 'currencyservice_container-memory-working-set-bytes', 'emailservice_container-memory-working-set-bytes', 'frontend_container-memory-working-set-bytes', 'main_container-memory-working-set-bytes', 'paymentservice_container-memory-working-set-bytes', 'productcatalogservice_container-memory-working-set-bytes', 'recommendationservice_container-memory-working-set-bytes', 'redis_container-memory-working-set-bytes', 'shippingservice_container-memory-working-set-bytes']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-spec-memory-limit-bytes', 'cartservice_container-spec-memory-limit-bytes', 'checkoutservice_container-spec-memory-limit-bytes', 'currencyservice_container-spec-memory-limit-bytes', 'emailservice_container-spec-memory-limit-bytes', 'frontend_container-spec-memory-limit-bytes', 'main_container-spec-memory-limit-bytes', 'paymentservice_container-spec-memory-limit-bytes', 'productcatalogservice_container-spec-memory-limit-bytes', 'recommendationservice_container-spec-memory-limit-bytes', 'redis_container-spec-memory-limit-bytes', 'shippingservice_container-spec-memory-limit-bytes']
+Time range: 12.0 minutes
+====================
+Data keys: ['cartservice_container-fs-writes-total', 'currencyservice_container-fs-writes-total', 'recommendationservice_container-fs-writes-total', 'redis_container-fs-writes-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['cartservice_container-fs-writes-bytes-total', 'currencyservice_container-fs-writes-bytes-total', 'recommendationservice_container-fs-writes-bytes-total', 'redis_container-fs-writes-bytes-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['cartservice_container-fs-reads-total', 'currencyservice_container-fs-reads-total', 'recommendationservice_container-fs-reads-total', 'redis_container-fs-reads-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['cartservice_container-fs-reads-bytes-total', 'currencyservice_container-fs-reads-bytes-total', 'recommendationservice_container-fs-reads-bytes-total', 'redis_container-fs-reads-bytes-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-network-transmit-packets-total', 'cartservice_container-network-transmit-packets-total', 'checkoutservice_container-network-transmit-packets-total', 'currencyservice_container-network-transmit-packets-total', 'emailservice_container-network-transmit-packets-total', 'frontend_container-network-transmit-packets-total', 'loadgenerator_container-network-transmit-packets-total', 'paymentservice_container-network-transmit-packets-total', 'productcatalogservice_container-network-transmit-packets-total', 'recommendationservice_container-network-transmit-packets-total', 'redis_container-network-transmit-packets-total', 'shippingservice_container-network-transmit-packets-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-network-transmit-packets-dropped-total', 'cartservice_container-network-transmit-packets-dropped-total', 'checkoutservice_container-network-transmit-packets-dropped-total', 'currencyservice_container-network-transmit-packets-dropped-total', 'emailservice_container-network-transmit-packets-dropped-total', 'frontend_container-network-transmit-packets-dropped-total', 'loadgenerator_container-network-transmit-packets-dropped-total', 'paymentservice_container-network-transmit-packets-dropped-total', 'productcatalogservice_container-network-transmit-packets-dropped-total', 'recommendationservice_container-network-transmit-packets-dropped-total', 'redis_container-network-transmit-packets-dropped-total', 'shippingservice_container-network-transmit-packets-dropped-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-network-transmit-bytes-total', 'cartservice_container-network-transmit-bytes-total', 'checkoutservice_container-network-transmit-bytes-total', 'currencyservice_container-network-transmit-bytes-total', 'emailservice_container-network-transmit-bytes-total', 'frontend_container-network-transmit-bytes-total', 'loadgenerator_container-network-transmit-bytes-total', 'paymentservice_container-network-transmit-bytes-total', 'productcatalogservice_container-network-transmit-bytes-total', 'recommendationservice_container-network-transmit-bytes-total', 'redis_container-network-transmit-bytes-total', 'shippingservice_container-network-transmit-bytes-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-network-transmit-errors-total', 'cartservice_container-network-transmit-errors-total', 'checkoutservice_container-network-transmit-errors-total', 'currencyservice_container-network-transmit-errors-total', 'emailservice_container-network-transmit-errors-total', 'frontend_container-network-transmit-errors-total', 'loadgenerator_container-network-transmit-errors-total', 'paymentservice_container-network-transmit-errors-total', 'productcatalogservice_container-network-transmit-errors-total', 'recommendationservice_container-network-transmit-errors-total', 'redis_container-network-transmit-errors-total', 'shippingservice_container-network-transmit-errors-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-network-receive-packets-total', 'cartservice_container-network-receive-packets-total', 'checkoutservice_container-network-receive-packets-total', 'currencyservice_container-network-receive-packets-total', 'emailservice_container-network-receive-packets-total', 'frontend_container-network-receive-packets-total', 'loadgenerator_container-network-receive-packets-total', 'paymentservice_container-network-receive-packets-total', 'productcatalogservice_container-network-receive-packets-total', 'recommendationservice_container-network-receive-packets-total', 'redis_container-network-receive-packets-total', 'shippingservice_container-network-receive-packets-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-network-receive-packets-dropped-total', 'cartservice_container-network-receive-packets-dropped-total', 'checkoutservice_container-network-receive-packets-dropped-total', 'currencyservice_container-network-receive-packets-dropped-total', 'emailservice_container-network-receive-packets-dropped-total', 'frontend_container-network-receive-packets-dropped-total', 'loadgenerator_container-network-receive-packets-dropped-total', 'paymentservice_container-network-receive-packets-dropped-total', 'productcatalogservice_container-network-receive-packets-dropped-total', 'recommendationservice_container-network-receive-packets-dropped-total', 'redis_container-network-receive-packets-dropped-total', 'shippingservice_container-network-receive-packets-dropped-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-network-receive-bytes-total', 'cartservice_container-network-receive-bytes-total', 'checkoutservice_container-network-receive-bytes-total', 'currencyservice_container-network-receive-bytes-total', 'emailservice_container-network-receive-bytes-total', 'frontend_container-network-receive-bytes-total', 'loadgenerator_container-network-receive-bytes-total', 'paymentservice_container-network-receive-bytes-total', 'productcatalogservice_container-network-receive-bytes-total', 'recommendationservice_container-network-receive-bytes-total', 'redis_container-network-receive-bytes-total', 'shippingservice_container-network-receive-bytes-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_container-network-receive-errors-total', 'cartservice_container-network-receive-errors-total', 'checkoutservice_container-network-receive-errors-total', 'currencyservice_container-network-receive-errors-total', 'emailservice_container-network-receive-errors-total', 'frontend_container-network-receive-errors-total', 'loadgenerator_container-network-receive-errors-total', 'paymentservice_container-network-receive-errors-total', 'productcatalogservice_container-network-receive-errors-total', 'recommendationservice_container-network-receive-errors-total', 'redis_container-network-receive-errors-total', 'shippingservice_container-network-receive-errors-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_istio-request-total', 'cartservice_istio-request-total', 'checkoutservice_istio-request-total', 'currencyservice_istio-request-total', 'emailservice_istio-request-total', 'frontend_istio-request-total', 'frontend-external_istio-request-total', 'paymentservice_istio-request-total', 'productcatalogservice_istio-request-total', 'recommendationservice_istio-request-total', 'shippingservice_istio-request-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['frontend_istio-error-total', 'frontend-external_istio-error-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_istio-latency-50', 'cartservice_istio-latency-50', 'checkoutservice_istio-latency-50', 'currencyservice_istio-latency-50', 'emailservice_istio-latency-50', 'frontend_istio-latency-50', 'paymentservice_istio-latency-50', 'productcatalogservice_istio-latency-50', 'recommendationservice_istio-latency-50', 'shippingservice_istio-latency-50']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_istio-latency-90', 'cartservice_istio-latency-90', 'checkoutservice_istio-latency-90', 'currencyservice_istio-latency-90', 'emailservice_istio-latency-90', 'frontend_istio-latency-90', 'paymentservice_istio-latency-90', 'productcatalogservice_istio-latency-90', 'recommendationservice_istio-latency-90', 'shippingservice_istio-latency-90']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_istio-latency-95', 'cartservice_istio-latency-95', 'checkoutservice_istio-latency-95', 'currencyservice_istio-latency-95', 'emailservice_istio-latency-95', 'frontend_istio-latency-95', 'paymentservice_istio-latency-95', 'productcatalogservice_istio-latency-95', 'recommendationservice_istio-latency-95', 'shippingservice_istio-latency-95']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_istio-latency-99', 'cartservice_istio-latency-99', 'checkoutservice_istio-latency-99', 'currencyservice_istio-latency-99', 'emailservice_istio-latency-99', 'frontend_istio-latency-99', 'paymentservice_istio-latency-99', 'productcatalogservice_istio-latency-99', 'recommendationservice_istio-latency-99', 'shippingservice_istio-latency-99']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_istio-bytes-50', 'cartservice_istio-bytes-50', 'checkoutservice_istio-bytes-50', 'currencyservice_istio-bytes-50', 'emailservice_istio-bytes-50', 'frontend_istio-bytes-50', 'paymentservice_istio-bytes-50', 'productcatalogservice_istio-bytes-50', 'recommendationservice_istio-bytes-50', 'shippingservice_istio-bytes-50']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_istio-bytes-90', 'cartservice_istio-bytes-90', 'checkoutservice_istio-bytes-90', 'currencyservice_istio-bytes-90', 'emailservice_istio-bytes-90', 'frontend_istio-bytes-90', 'paymentservice_istio-bytes-90', 'productcatalogservice_istio-bytes-90', 'recommendationservice_istio-bytes-90', 'shippingservice_istio-bytes-90']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_istio-bytes-95', 'cartservice_istio-bytes-95', 'checkoutservice_istio-bytes-95', 'currencyservice_istio-bytes-95', 'emailservice_istio-bytes-95', 'frontend_istio-bytes-95', 'paymentservice_istio-bytes-95', 'productcatalogservice_istio-bytes-95', 'recommendationservice_istio-bytes-95', 'shippingservice_istio-bytes-95']
+Time range: 12.0 minutes
+====================
+Data keys: ['adservice_istio-bytes-99', 'cartservice_istio-bytes-99', 'checkoutservice_istio-bytes-99', 'currencyservice_istio-bytes-99', 'emailservice_istio-bytes-99', 'frontend_istio-bytes-99', 'paymentservice_istio-bytes-99', 'productcatalogservice_istio-bytes-99', 'recommendationservice_istio-bytes-99', 'shippingservice_istio-bytes-99']
+Time range: 12.0 minutes
+====================
+Data keys: ['192-168-16-130-9100_node-cpu-seconds-total', '192-168-23-73-9100_node-cpu-seconds-total', '192-168-46-122-9100_node-cpu-seconds-total', '192-168-49-59-9100_node-cpu-seconds-total', '192-168-77-1-9100_node-cpu-seconds-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['192-168-16-130-9100_node-memory-active-bytes', '192-168-23-73-9100_node-memory-active-bytes', '192-168-46-122-9100_node-memory-active-bytes', '192-168-49-59-9100_node-memory-active-bytes', '192-168-77-1-9100_node-memory-active-bytes']
+Time range: 12.0 minutes
+====================
+Data keys: ['192-168-16-130-9100_node-memory-inactive-bytes', '192-168-23-73-9100_node-memory-inactive-bytes', '192-168-46-122-9100_node-memory-inactive-bytes', '192-168-49-59-9100_node-memory-inactive-bytes', '192-168-77-1-9100_node-memory-inactive-bytes']
+Time range: 12.0 minutes
+====================
+Data keys: ['192-168-16-130-9100_node-disk-reads-completed-total', '192-168-23-73-9100_node-disk-reads-completed-total', '192-168-46-122-9100_node-disk-reads-completed-total', '192-168-49-59-9100_node-disk-reads-completed-total', '192-168-77-1-9100_node-disk-reads-completed-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['192-168-16-130-9100_node-disk-writes-completed-total', '192-168-23-73-9100_node-disk-writes-completed-total', '192-168-46-122-9100_node-disk-writes-completed-total', '192-168-49-59-9100_node-disk-writes-completed-total', '192-168-77-1-9100_node-disk-writes-completed-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['192-168-16-130-9100_node-disk-read-bytes-total', '192-168-23-73-9100_node-disk-read-bytes-total', '192-168-46-122-9100_node-disk-read-bytes-total', '192-168-49-59-9100_node-disk-read-bytes-total', '192-168-77-1-9100_node-disk-read-bytes-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['192-168-16-130-9100_node-disk-written-bytes-total', '192-168-23-73-9100_node-disk-written-bytes-total', '192-168-46-122-9100_node-disk-written-bytes-total', '192-168-49-59-9100_node-disk-written-bytes-total', '192-168-77-1-9100_node-disk-written-bytes-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['192-168-16-130-9100_node-network-receive-packets-total', '192-168-23-73-9100_node-network-receive-packets-total', '192-168-46-122-9100_node-network-receive-packets-total', '192-168-49-59-9100_node-network-receive-packets-total', '192-168-77-1-9100_node-network-receive-packets-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['192-168-16-130-9100_node-network-transmit-packets-total', '192-168-23-73-9100_node-network-transmit-packets-total', '192-168-46-122-9100_node-network-transmit-packets-total', '192-168-49-59-9100_node-network-transmit-packets-total', '192-168-77-1-9100_node-network-transmit-packets-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['192-168-16-130-9100_node-network-receive-errs-total', '192-168-23-73-9100_node-network-receive-errs-total', '192-168-46-122-9100_node-network-receive-errs-total', '192-168-49-59-9100_node-network-receive-errs-total', '192-168-77-1-9100_node-network-receive-errs-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['192-168-16-130-9100_node-network-transmit-errs-total', '192-168-23-73-9100_node-network-transmit-errs-total', '192-168-46-122-9100_node-network-transmit-errs-total', '192-168-49-59-9100_node-network-transmit-errs-total', '192-168-77-1-9100_node-network-transmit-errs-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['192-168-16-130-9100_node-network-receive-drop-total', '192-168-23-73-9100_node-network-receive-drop-total', '192-168-46-122-9100_node-network-receive-drop-total', '192-168-49-59-9100_node-network-receive-drop-total', '192-168-77-1-9100_node-network-receive-drop-total']
+Time range: 12.0 minutes
+====================
+Data keys: ['192-168-16-130-9100_node-network-transmit-drop-total', '192-168-23-73-9100_node-network-transmit-drop-total', '192-168-46-122-9100_node-network-transmit-drop-total', '192-168-49-59-9100_node-network-transmit-drop-total', '192-168-77-1-9100_node-network-transmit-drop-total']
+Time range: 12.0 minutes
